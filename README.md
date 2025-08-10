@@ -1,22 +1,23 @@
 # A-website
-A custom website i am building as a side project. Please leave reviews
+A custom website I’m building as a side project. Please leave reviews!  
 
+## About
+This website is based on a clothing shop.  
+Some sections (like the underwear section 💀) are just for giggles.  
 
-# about the website
-this website is based on a clothing shop.
-Section's like the underwear section 💀 is for giggles only.
+## Reviews
+I’d really appreciate your feedback so I can keep improving the site!  
 
-# Reviews
-I would really like it if you guys leave reviews it would be amazing. Which I would use to help me upgrade the website.
+Please leave a review in the format below:  
 
-Please leave review the website as in the bellow:
+**⭐⭐⭐⭐⭐** (rate out of 5 stars)  
+Your comment here — e.g., “Amazing responsive design!”  
 
-# ⭐⭐⭐⭐⭐ (Note: rate it out of 5 stars)
-Amazing responsive design (Can be anything).
+## License
+MIT License — free access and free use. Have fun!  
 
-#licence
-The licence has been made MIT for free access, and freer use have fun.
+## Version Log
+**1.0.0** — Updated README.md
 
-# Version log-1: (1.0.0)
-Update README.md
-
+## Version Log
+**1.0.1** - Updated README.md for More proffesional look
