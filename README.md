@@ -17,6 +17,6 @@ Amazing responsive design (Can be anything).
 #licence
 The licence has been made MIT for free access, and freer use have fun.
 
-Version log-1: (1.0.0)
+# Version log-1: (1.0.0)
 Update README.md
 
