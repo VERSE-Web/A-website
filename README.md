@@ -20,4 +20,4 @@ MIT License — free access and free use. Have fun!
 **1.0.0** — Updated README.md
 
 ## Version Log
-**1.0.1** - Updated README.md for More proffesional look
+**1.0.1** - Updated README.md for More profesional look
